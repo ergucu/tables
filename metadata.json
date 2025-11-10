@@ -1,0 +1,5 @@
+{
+  "name": "Paste to HTML Table",
+  "description": "A tool to convert pasted data from Excel or Word into a clean HTML table. Paste your data, preview the table, and copy the HTML markup with a single click.",
+  "requestFramePermissions": []
+}
